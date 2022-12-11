@@ -6,9 +6,9 @@ import numpy as np
 from scipy.signal import find_peaks
 import difflib
 
-import sys
+#import sys
 
-args = sys.argv
+#args = sys.argv
 
 ### 3D scatter plot ###
 
