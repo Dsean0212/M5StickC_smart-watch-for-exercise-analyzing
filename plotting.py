@@ -12,9 +12,9 @@ args = sys.argv
 
 ### 3D scatter plot ###
 
-#df_gyro = pd.read_csv (r'./test_fix_gyro.csv')
-df_acc = pd.read_csv (r'./test_fix_acc.csv')
-#df_acc = pd.read_csv (rf'./test_fix_acc_{args[1]}.csv')
+#df_gyro = pd.read_csv (r'./test_gyro.csv')
+df_acc = pd.read_csv (r'./test_acc.csv')
+#df_acc = pd.read_csv (rf'./test_acc_{args[1]}.csv')
 
 print(df_acc)
 
